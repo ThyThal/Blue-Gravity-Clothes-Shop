@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f597b2906a820f45be52cfdc86afc36
+guid: 46962ce9c946e6647b5f486a4d602793
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body_Idle_0
+      name: Shirt_Idle
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15befb8048157cc43a5d49e3a4abb28e
-      internalID: -1286915484
+      spriteID: 5cb63bc11feaad749acacf288e20d3d7
+      internalID: 1001106221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_01
+      name: Shirt_Walk_Down_01
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87b7ced7aa7b4924eb70782b39c02011
-      internalID: -181547849
+      spriteID: cb8bbc10679644f49b740b7b2fff0123
+      internalID: -1781805827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_02
+      name: Shirt_Walk_Down_02
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8917cd9b9274084a86a41ce13195b61
-      internalID: -1640554191
+      spriteID: c9d2426df6584cd438673190a63826d4
+      internalID: -982588098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_03
+      name: Shirt_Walk_Down_03
       rect:
         serializedVersion: 2
         x: 128
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05fee9437f0feba4386acfb8f057232b
-      internalID: 1356199255
+      spriteID: f9e5c55bf2b3f2a4c8390f2e0bbbfa17
+      internalID: 1072509616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_01
+      name: Shirt_Walk_Up_01
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0631218382831418ad93c580bc8a86
-      internalID: -397710438
+      spriteID: a72cb0dc6dc29cb49a05bfcaee00da39
+      internalID: 742444663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_02
+      name: Shirt_Walk_Up_02
       rect:
         serializedVersion: 2
         x: 320
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87570e4668fa58b4f9ad3fbb5b1172e0
-      internalID: 1138316784
+      spriteID: 6bce90256a7efe84e973705e86335742
+      internalID: -10092922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_03
+      name: Shirt_Walk_Up_03
       rect:
         serializedVersion: 2
         x: 384
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46dee758debc27478aa26c2048213cb
-      internalID: 91742456
+      spriteID: 877bc4a6e2d693e4c8bc6e97a9ef02b2
+      internalID: 869868304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_01
+      name: Shirt_Walk_Side_01
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3220eb55a92c984428e6bbb4c9ba494f
-      internalID: 91396835
+      spriteID: ff66bdb20a459104e80aeb29f89440af
+      internalID: 947619690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_02
+      name: Shirt_Walk_Side_02
       rect:
         serializedVersion: 2
         x: 64
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2277d10de6f9d46b661fee8f65be99
-      internalID: -291748352
+      spriteID: abf2ffd489a83ef41a5e12fcfb4a80bc
+      internalID: 767884632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_03
+      name: Shirt_Walk_Side_03
       rect:
         serializedVersion: 2
         x: 128
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63638205c84b45b43b63f19c83e0fed2
-      internalID: -1101029795
+      spriteID: 22cc2dbdee641df4ca3a20832f3089cb
+      internalID: 349752634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_04
+      name: Shirt_Walk_Side_04
       rect:
         serializedVersion: 2
         x: 192
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3209fd56fb6230428dde11f3adae3bc
-      internalID: -1995928419
+      spriteID: b20fd865069aeba4f8d5ed8355d92a8f
+      internalID: 671379273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_05
+      name: Shirt_Walk_Side_05
       rect:
         serializedVersion: 2
         x: 256
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e84d0c2140c07b745ab6d8d8302b76bd
-      internalID: 1388572896
+      spriteID: cda82826a426eb744ac0d04198f2a198
+      internalID: 1555894923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_06
+      name: Shirt_Walk_Side_06
       rect:
         serializedVersion: 2
         x: 320
@@ -370,8 +370,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1edb300056c62e8428868bc8ae188dcc
-      internalID: -145844600
+      spriteID: 105fd447eceb45d4ebcc418d1c2e74f2
+      internalID: -1058033724
       vertices: []
       indices: 
       edges: []
@@ -387,31 +387,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body_Walk_Down_03: 1356199255
-      Body_Walk_Side_01: 91396835
-      Player_Naked_Sprites_23: 152100128
-      Body_Walk_Up_02: 1138316784
-      Player_Naked_Sprites_4: -1212579654
-      Player_Naked_Sprites_7: 1307943431
-      Body_Walk_Down_02: -1640554191
-      Player_Naked_Sprites_8: 141692658
-      Body_Walk_Side_05: 1388572896
-      Player_Naked_Sprites_12: -1816048630
-      Player_Naked_Sprites_1: -11059365
-      Body_Walk_Side_02: -291748352
-      Body_Walk_Side_04: -1995928419
-      Body_Walk_Down_01: -181547849
-      Player_Naked_Sprites_2: -1908236693
-      Body_Walk_Up_03: 91742456
-      Body_Walk_Side_06: -145844600
-      Body_Idle_0: -1286915484
-      Player_Naked_Sprites_24: 1294229001
-      Player_Naked_Sprites_6: 1526216058
-      Player_Naked_Sprites_16: -536906503
-      Player_Naked_Sprites_3: 686227515
-      Body_Walk_Up_01: -397710438
-      Player_Naked_Sprites_5: 585134949
-      Body_Walk_Side_03: -1101029795
+      Shirt_Walk_Up_01: 742444663
+      Shirt_Walk_Side_06: -1058033724
+      Shirt_Idle: 1001106221
+      Shirt_Walk_Up_03: 869868304
+      Shirt_Walk_Side_01: 947619690
+      Shirt_Walk_Down_01: -1781805827
+      Shirt_Walk_Side_03: 349752634
+      Shirt_Walk_Up_02: -10092922
+      Shirt_Walk_Down_02: -982588098
+      Shirt_Walk_Side_02: 767884632
+      Shirt_Walk_Side_04: 671379273
+      Shirt_Walk_Down_03: 1072509616
+      Shirt_Walk_Side_05: 1555894923
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

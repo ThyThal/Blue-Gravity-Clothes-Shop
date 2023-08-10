@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f597b2906a820f45be52cfdc86afc36
+guid: 8e75c1198aeba744681c14ed5b435c04
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body_Idle_0
+      name: Player_Foot_Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15befb8048157cc43a5d49e3a4abb28e
-      internalID: -1286915484
+      spriteID: f307a1e44db609d429aed81c4f7c1d63
+      internalID: -1559594655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_01
+      name: Player_Foot_Walk_Down_01
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87b7ced7aa7b4924eb70782b39c02011
-      internalID: -181547849
+      spriteID: 0ce807a274208344b8bc63fce88bee35
+      internalID: -1929496802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_02
+      name: Player_Foot_Walk_Down_02
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8917cd9b9274084a86a41ce13195b61
-      internalID: -1640554191
+      spriteID: 5fefb89ac54bc6e459406f8b242dae91
+      internalID: 290752622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_03
+      name: Player_Foot_Walk_Down_03
       rect:
         serializedVersion: 2
         x: 128
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05fee9437f0feba4386acfb8f057232b
-      internalID: 1356199255
+      spriteID: 82abe43ef9a54e044a6d7329cbda6c16
+      internalID: -721059201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_01
+      name: Player_Foot_Walk_Up_01
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0631218382831418ad93c580bc8a86
-      internalID: -397710438
+      spriteID: 3876153f0705bea4e95d98edfc9bd8c0
+      internalID: -1353217090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_02
+      name: Player_Foot_Walk_Up_02
       rect:
         serializedVersion: 2
         x: 320
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87570e4668fa58b4f9ad3fbb5b1172e0
-      internalID: 1138316784
+      spriteID: 206658d2f9660e7429270fd2febc15b6
+      internalID: 1714413016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_03
+      name: Player_Foot_Walk_Up_03
       rect:
         serializedVersion: 2
         x: 384
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46dee758debc27478aa26c2048213cb
-      internalID: 91742456
+      spriteID: 1eca593a3585dd64090364ea6a7a7112
+      internalID: -1805117928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_01
+      name: Player_Foot_Walk_Side_01
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3220eb55a92c984428e6bbb4c9ba494f
-      internalID: 91396835
+      spriteID: d51b21950720a764eb0609f2316bebee
+      internalID: -931320420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_02
+      name: Player_Foot_Walk_Side_02
       rect:
         serializedVersion: 2
         x: 64
@@ -286,77 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2277d10de6f9d46b661fee8f65be99
-      internalID: -291748352
+      spriteID: cf23607694754ed43ae370d09c52af3d
+      internalID: -5706573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_03
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63638205c84b45b43b63f19c83e0fed2
-      internalID: -1101029795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Body_Walk_Side_04
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3209fd56fb6230428dde11f3adae3bc
-      internalID: -1995928419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Body_Walk_Side_05
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e84d0c2140c07b745ab6d8d8302b76bd
-      internalID: 1388572896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Body_Walk_Side_06
+      name: Player_Foot_Walk_Side_06
       rect:
         serializedVersion: 2
         x: 320
@@ -370,8 +307,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1edb300056c62e8428868bc8ae188dcc
-      internalID: -145844600
+      spriteID: f36f93707de2426428e3e502afd7e72f
+      internalID: 1791978340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Foot_Walk_Side_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e0923dd75d3a46b84d2d819d73831
+      internalID: -1084434477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Foot_Walk_Side_04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54209ef8b8e87cc4d8fc037c90cd1b1f
+      internalID: -1284234294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Foot_Walk_Side_05
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33ac5799f06a94b9201a2d67aea82a
+      internalID: 1996592608
       vertices: []
       indices: 
       edges: []
@@ -387,31 +387,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body_Walk_Down_03: 1356199255
-      Body_Walk_Side_01: 91396835
-      Player_Naked_Sprites_23: 152100128
-      Body_Walk_Up_02: 1138316784
-      Player_Naked_Sprites_4: -1212579654
-      Player_Naked_Sprites_7: 1307943431
-      Body_Walk_Down_02: -1640554191
-      Player_Naked_Sprites_8: 141692658
-      Body_Walk_Side_05: 1388572896
-      Player_Naked_Sprites_12: -1816048630
-      Player_Naked_Sprites_1: -11059365
-      Body_Walk_Side_02: -291748352
-      Body_Walk_Side_04: -1995928419
-      Body_Walk_Down_01: -181547849
-      Player_Naked_Sprites_2: -1908236693
-      Body_Walk_Up_03: 91742456
-      Body_Walk_Side_06: -145844600
-      Body_Idle_0: -1286915484
-      Player_Naked_Sprites_24: 1294229001
-      Player_Naked_Sprites_6: 1526216058
-      Player_Naked_Sprites_16: -536906503
-      Player_Naked_Sprites_3: 686227515
-      Body_Walk_Up_01: -397710438
-      Player_Naked_Sprites_5: 585134949
-      Body_Walk_Side_03: -1101029795
+      Player_Foot_Walk_Side_03: -1084434477
+      Player_Foot_Idle_0: -1559594655
+      Player_Foot_Walk_Side_02: -5706573
+      Player_Foot_Walk_Up_02: 1714413016
+      Player_Foot_Walk_Side_06: 1791978340
+      Player_Foot_Walk_Side_04: -1284234294
+      Player_Foot_Walk_Side_01: -931320420
+      Player_Foot_Walk_Up_01: -1353217090
+      Player_Foot_Walk_Down_03: -721059201
+      Player_Foot_Walk_Side_05: 1996592608
+      Player_Foot_Walk_Down_01: -1929496802
+      Player_Foot_Walk_Up_03: -1805117928
+      Player_Foot_Walk_Down_02: 290752622
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

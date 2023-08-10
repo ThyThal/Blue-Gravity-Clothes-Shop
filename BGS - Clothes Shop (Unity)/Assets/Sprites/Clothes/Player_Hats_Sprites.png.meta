@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f597b2906a820f45be52cfdc86afc36
+guid: 7251dc83c514fb34f83920738102b18e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body_Idle_0
+      name: Hat_Idle
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15befb8048157cc43a5d49e3a4abb28e
-      internalID: -1286915484
+      spriteID: 0125d05bb0fdcc348a03c0729fb61432
+      internalID: 1408912050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_01
+      name: Hat_Walk_Down_01
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87b7ced7aa7b4924eb70782b39c02011
-      internalID: -181547849
+      spriteID: 064cf1da55772c84f9d8d3010037b986
+      internalID: -1916344746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_02
+      name: Hat_Walk_Down_02
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8917cd9b9274084a86a41ce13195b61
-      internalID: -1640554191
+      spriteID: 6ae27e7210ca0c949ba54c6513214f10
+      internalID: 24082915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_03
+      name: Hat_Walk_Down_03
       rect:
         serializedVersion: 2
         x: 128
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05fee9437f0feba4386acfb8f057232b
-      internalID: 1356199255
+      spriteID: 7e966ed7e04f5564580451b0031e406a
+      internalID: 1460816148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_01
+      name: Hat_Walk_Up_01
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0631218382831418ad93c580bc8a86
-      internalID: -397710438
+      spriteID: 459691f33c9d90845b6d1029cb98ae67
+      internalID: 444467114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_02
+      name: Hat_Walk_Up_02
       rect:
         serializedVersion: 2
         x: 320
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87570e4668fa58b4f9ad3fbb5b1172e0
-      internalID: 1138316784
+      spriteID: 465f94b150d4d1e43abe964d869e79cb
+      internalID: -1551414130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_03
+      name: Hat_Walk_Up_03
       rect:
         serializedVersion: 2
         x: 384
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46dee758debc27478aa26c2048213cb
-      internalID: 91742456
+      spriteID: 2ad148132cb9d8449b4d043633a51435
+      internalID: 2127356958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_01
+      name: Hat_Walk_Side_01
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3220eb55a92c984428e6bbb4c9ba494f
-      internalID: 91396835
+      spriteID: 6f0979c66af22c545b699e984fed45c8
+      internalID: 918545309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_02
+      name: Hat_Walk_Side_02
       rect:
         serializedVersion: 2
         x: 64
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2277d10de6f9d46b661fee8f65be99
-      internalID: -291748352
+      spriteID: b3d7291ed4c8c2d4596478f2d5f5ff8a
+      internalID: 1775069262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_03
+      name: Hat_Walk_Side_03
       rect:
         serializedVersion: 2
         x: 128
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63638205c84b45b43b63f19c83e0fed2
-      internalID: -1101029795
+      spriteID: 0bd7e1cb263833c49a69af8efc3e5e90
+      internalID: -1180091480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_04
+      name: Hat_Walk_Side_04
       rect:
         serializedVersion: 2
         x: 192
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3209fd56fb6230428dde11f3adae3bc
-      internalID: -1995928419
+      spriteID: 5700291866c488a4da4264ec5d5c8587
+      internalID: 792805531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_05
+      name: Hat_Walk_Side_05
       rect:
         serializedVersion: 2
         x: 256
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e84d0c2140c07b745ab6d8d8302b76bd
-      internalID: 1388572896
+      spriteID: 2fee79ac1f9778a45b390f9e3c6074e2
+      internalID: -1443064319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_06
+      name: Hat_Walk_Side_06
       rect:
         serializedVersion: 2
         x: 320
@@ -370,8 +370,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1edb300056c62e8428868bc8ae188dcc
-      internalID: -145844600
+      spriteID: 6ca2117dc4bb3644395b4863d30826ca
+      internalID: -1954583416
       vertices: []
       indices: 
       edges: []
@@ -387,31 +387,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body_Walk_Down_03: 1356199255
-      Body_Walk_Side_01: 91396835
-      Player_Naked_Sprites_23: 152100128
-      Body_Walk_Up_02: 1138316784
-      Player_Naked_Sprites_4: -1212579654
-      Player_Naked_Sprites_7: 1307943431
-      Body_Walk_Down_02: -1640554191
-      Player_Naked_Sprites_8: 141692658
-      Body_Walk_Side_05: 1388572896
-      Player_Naked_Sprites_12: -1816048630
-      Player_Naked_Sprites_1: -11059365
-      Body_Walk_Side_02: -291748352
-      Body_Walk_Side_04: -1995928419
-      Body_Walk_Down_01: -181547849
-      Player_Naked_Sprites_2: -1908236693
-      Body_Walk_Up_03: 91742456
-      Body_Walk_Side_06: -145844600
-      Body_Idle_0: -1286915484
-      Player_Naked_Sprites_24: 1294229001
-      Player_Naked_Sprites_6: 1526216058
-      Player_Naked_Sprites_16: -536906503
-      Player_Naked_Sprites_3: 686227515
-      Body_Walk_Up_01: -397710438
-      Player_Naked_Sprites_5: 585134949
-      Body_Walk_Side_03: -1101029795
+      Hat_Walk_Down_03: 1460816148
+      Hat_Walk_Side_05: -1443064319
+      Hat_Walk_Up_03: 2127356958
+      Hat_Walk_Side_06: -1954583416
+      Hat_Walk_Side_03: -1180091480
+      Hat_Walk_Down_01: -1916344746
+      Hat_Walk_Side_01: 918545309
+      Hat_Walk_Side_02: 1775069262
+      Hat_Walk_Down_02: 24082915
+      Hat_Walk_Up_01: 444467114
+      Hat_Walk_Side_04: 792805531
+      Hat_Walk_Up_02: -1551414130
+      Hat_Idle: 1408912050
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

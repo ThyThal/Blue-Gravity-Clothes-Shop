@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f597b2906a820f45be52cfdc86afc36
+guid: a67acb0c364fd8745be6dbe58ef6f8f7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body_Idle_0
+      name: Hair_Idle
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15befb8048157cc43a5d49e3a4abb28e
-      internalID: -1286915484
+      spriteID: 8c37ad0efa319af4baca5775a0f6e350
+      internalID: 1640651834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_01
+      name: Hair_Walk_Down_01
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87b7ced7aa7b4924eb70782b39c02011
-      internalID: -181547849
+      spriteID: 28d9e2f689f194c468f2f3d0d0338ea5
+      internalID: -277980191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_02
+      name: Hair_Walk_Down_02
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8917cd9b9274084a86a41ce13195b61
-      internalID: -1640554191
+      spriteID: 9d317094ef6cd8542bfe55c1d55ccc54
+      internalID: 2119806324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Down_03
+      name: Hair_Walk_Down_03
       rect:
         serializedVersion: 2
         x: 128
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05fee9437f0feba4386acfb8f057232b
-      internalID: 1356199255
+      spriteID: 1af3f18c804e94d468d3007c3cbe46a6
+      internalID: 1012898424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_01
+      name: Hair_Walk_Up_01
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0631218382831418ad93c580bc8a86
-      internalID: -397710438
+      spriteID: 3d702dbf91f93364fad9cfe42e1b3137
+      internalID: 1481140935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_02
+      name: Hair_Walk_Up_02
       rect:
         serializedVersion: 2
         x: 320
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87570e4668fa58b4f9ad3fbb5b1172e0
-      internalID: 1138316784
+      spriteID: 4770d235f884a0c418a7ac32cbeda17e
+      internalID: -1613397718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Up_03
+      name: Hair_Walk_Up_03
       rect:
         serializedVersion: 2
         x: 384
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46dee758debc27478aa26c2048213cb
-      internalID: 91742456
+      spriteID: 3a3719b554d4ebd49ad497afe50158a0
+      internalID: 1112176969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_01
+      name: Hair_Walk_Side_01
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3220eb55a92c984428e6bbb4c9ba494f
-      internalID: 91396835
+      spriteID: 94ab034d99329cf47a25c42e71fd8f8d
+      internalID: -141934904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_02
+      name: Hair_Walk_Side_02
       rect:
         serializedVersion: 2
         x: 64
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2277d10de6f9d46b661fee8f65be99
-      internalID: -291748352
+      spriteID: e3042dd232232534aaee2fa86f7e1584
+      internalID: -1346117863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_03
+      name: Hair_Walk_Side_03
       rect:
         serializedVersion: 2
         x: 128
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63638205c84b45b43b63f19c83e0fed2
-      internalID: -1101029795
+      spriteID: 58a0d23b08a08fc45b99aa54299ff93e
+      internalID: -936399606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_04
+      name: Hair_Walk_Side_04
       rect:
         serializedVersion: 2
         x: 192
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3209fd56fb6230428dde11f3adae3bc
-      internalID: -1995928419
+      spriteID: 34bd4f2976cb1db4881b82246a89ea0f
+      internalID: 682891726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_05
+      name: Hair_Walk_Side_05
       rect:
         serializedVersion: 2
         x: 256
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e84d0c2140c07b745ab6d8d8302b76bd
-      internalID: 1388572896
+      spriteID: c602c4be3c5785c469c755a52b979b5c
+      internalID: -2032399277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_Walk_Side_06
+      name: Hair_Walk_Side_06
       rect:
         serializedVersion: 2
         x: 320
@@ -370,8 +370,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1edb300056c62e8428868bc8ae188dcc
-      internalID: -145844600
+      spriteID: 4e6ad248d083f8d4a89c509d574d9a18
+      internalID: -127735178
       vertices: []
       indices: 
       edges: []
@@ -387,31 +387,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body_Walk_Down_03: 1356199255
-      Body_Walk_Side_01: 91396835
-      Player_Naked_Sprites_23: 152100128
-      Body_Walk_Up_02: 1138316784
-      Player_Naked_Sprites_4: -1212579654
-      Player_Naked_Sprites_7: 1307943431
-      Body_Walk_Down_02: -1640554191
-      Player_Naked_Sprites_8: 141692658
-      Body_Walk_Side_05: 1388572896
-      Player_Naked_Sprites_12: -1816048630
-      Player_Naked_Sprites_1: -11059365
-      Body_Walk_Side_02: -291748352
-      Body_Walk_Side_04: -1995928419
-      Body_Walk_Down_01: -181547849
-      Player_Naked_Sprites_2: -1908236693
-      Body_Walk_Up_03: 91742456
-      Body_Walk_Side_06: -145844600
-      Body_Idle_0: -1286915484
-      Player_Naked_Sprites_24: 1294229001
-      Player_Naked_Sprites_6: 1526216058
-      Player_Naked_Sprites_16: -536906503
-      Player_Naked_Sprites_3: 686227515
-      Body_Walk_Up_01: -397710438
-      Player_Naked_Sprites_5: 585134949
-      Body_Walk_Side_03: -1101029795
+      Hair_Walk_Down_02: 2119806324
+      Hair_Walk_Side_03: -936399606
+      Hair_Walk_Side_04: 682891726
+      Hair_Walk_Side_02: -1346117863
+      Hair_Walk_Down_01: -277980191
+      Hair_Walk_Side_01: -141934904
+      Hair_Walk_Side_06: -127735178
+      Hair_Walk_Up_03: 1112176969
+      Hair_Walk_Down_03: 1012898424
+      Hair_Walk_Up_01: 1481140935
+      Hair_Walk_Side_05: -2032399277
+      Hair_Walk_Up_02: -1613397718
+      Hair_Idle: 1640651834
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
