@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sprite: {fileID: -285899996, guid: 28d7477867f0e224ea175a1b0a43b3ca, type: 3}
   _clotheType: 1
+  _price: 150

@@ -26,8 +26,8 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void DoMovement()
+    public void DoEquipClothe(PlayerClotheScriptable clothe)
     {
-
+        _playerModel.EquipClothes(clothe);
     }
 }
