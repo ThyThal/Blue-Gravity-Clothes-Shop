@@ -13,7 +13,7 @@ public class ShopManager : MonoBehaviour
     {
         foreach (var item in _items)
         {
-            if (item.IsBought) continue;
+            if (item.IsBought) { item.PriceColor = _boughtColor; continue; };
 
             bool isExpensive = item.ItemPrice > GameManager.Instance.Coins ? true : false;
             if (isExpensive) { item.PriceColor = _expensiveColor; }

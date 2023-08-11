@@ -76,14 +76,17 @@ public class GameManager : MonoBehaviour
         _coins += amount;
         _coins = Mathf.Clamp(_coins, 0, 1350);
         _coinsText.text = _coins.ToString();
+        _shopManager.UpdatePriceColors();
     }
 
     public void RemoveCoins(int amount)
     {
         if (_coins <= 0) return;
 
+        _shopManager.UpdatePriceColors();
         _coins -= amount;
         _coins = Mathf.Clamp(_coins, 0, 1350);
         _coinsText.text = _coins.ToString();
+        _shopManager.UpdatePriceColors();
     }
 }
