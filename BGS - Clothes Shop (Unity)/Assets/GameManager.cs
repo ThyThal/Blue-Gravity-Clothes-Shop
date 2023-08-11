@@ -71,13 +71,19 @@ public class GameManager : MonoBehaviour
 
     public void AddCoins(int amount)
     {
+        if (_coins >= 1350) return;
+
         _coins += amount;
+        _coins = Mathf.Clamp(_coins, 0, 1350);
         _coinsText.text = _coins.ToString();
     }
 
     public void RemoveCoins(int amount)
     {
+        if (_coins <= 0) return;
+
         _coins -= amount;
+        _coins = Mathf.Clamp(_coins, 0, 1350);
         _coinsText.text = _coins.ToString();
     }
 }
