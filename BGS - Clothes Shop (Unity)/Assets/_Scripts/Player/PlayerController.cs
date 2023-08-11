@@ -30,4 +30,9 @@ public class PlayerController : MonoBehaviour
     {
         _playerModel.EquipClothes(clothe);
     }
+
+    public void DoUnequipClothe(PlayerClotheScriptable clothe)
+    {
+        _playerModel.UnequipClothes(clothe);
+    }
 }

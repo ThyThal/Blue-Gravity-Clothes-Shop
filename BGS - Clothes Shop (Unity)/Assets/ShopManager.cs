@@ -9,11 +9,6 @@ public class ShopManager : MonoBehaviour
     [SerializeField] private Color _boughtColor = Color.yellow;
     [SerializeField] private List<ShopItem> _items;
 
-    private void Start()
-    {
-        UpdatePriceColors();
-    }
-
     public void UpdatePriceColors()
     {
         foreach (var item in _items)

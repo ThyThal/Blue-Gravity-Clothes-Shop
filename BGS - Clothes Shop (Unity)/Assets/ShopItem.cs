@@ -36,14 +36,35 @@ public class ShopItem : MonoBehaviour
         }
     }
 
+    public void DoShopInteraction()
+    {
+        if (_isBought)
+        {
+            Sell();
+        }
+
+        else
+        {
+            Purchase();
+        }
+    }
+
     public void Purchase()
     {
+        if (_isBought) return;
         if (_currentItem.Price > GameManager.Instance.Coins) return;
 
-        _button.interactable = false;
         _priceText.color = Color.yellow;
         GameManager.Instance.BoughtClothes(_currentItem);
         _isBought = true;
+        _shopManager.UpdatePriceColors();
+    }
+
+    public void Sell()
+    {
+        if (!_isBought) return;
+        GameManager.Instance.SoldClothes(_currentItem);
+        _isBought = false;
         _shopManager.UpdatePriceColors();
     }
 }
